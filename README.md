@@ -3,7 +3,7 @@
 
 # Location logger
 Application for logging your current location and checking weather. 
-![Alt text](/LocationLogger Screenshots/Map .png?raw=true "Optional Title")
-![Map Window](https://raw.github.com/Sinity0/Location-logger/blob/master/LocationLogger%20Screenshots/Map%20.png)
 ![Map Window](https://github.com/Sinity0/Location-logger/blob/master/LocationLogger%20Screenshots/Map%20.png)
+![Map Window](https://github.com/Sinity0/Location-logger/blob/master/LocationLogger%20Screenshots/History.png)
+![Map Window](https://github.com/Sinity0/Location-logger/blob/master/LocationLogger%20Screenshots/Details.png)
 
