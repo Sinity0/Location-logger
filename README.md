@@ -8,7 +8,7 @@ Map page             |  History page         |  Details page
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/Sinity0/Location-logger/blob/master/LocationLogger%20Screenshots/Map%20.png" width="300">  |  <img src="https://github.com/Sinity0/Location-logger/blob/master/LocationLogger%20Screenshots/History.png" width="300"> | <img src="https://github.com/Sinity0/Location-logger/blob/master/LocationLogger%20Screenshots/Details.png" width="300">
 
-## Installation
+## Before you click "Build and run"
 
 ### CocoaPods
 
@@ -16,4 +16,10 @@ Map page             |  History page         |  Details page
 
 ```bash
 $ gem install cocoapods
+```
+
+Then, navigate to project folder and run the following command:
+
+```bash
+$ pod install
 ```
