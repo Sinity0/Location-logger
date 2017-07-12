@@ -10,7 +10,7 @@ Map page             |  History page         |  Details page
 
 ## Before you click "Build and run"
 
-### CocoaPods
+### Install CocoaPods
 
 [CocoaPods](http://cocoapods.org) is a dependency manager for Cocoa projects. You can install it with the following command:
 
